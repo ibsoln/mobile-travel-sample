@@ -1,6 +1,5 @@
-name: tutorials
+name: mobile-travel-sample
 title: Couchbase Lite - Mobile Travel Sample
-version: 'master'
-version: 'java-swing (2.7)'
+version: '2.7.0'
 nav:
 - modules/ROOT/nav.adoc
